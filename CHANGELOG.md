@@ -1,5 +1,25 @@
 # Changelog
 
+## [2025.5.11](https://github.com/jdx/mise/compare/v2025.5.10..v2025.5.11) - 2025-05-23
+
+### 🚀 Features
+
+- **(registry)** add victoriametrics by [@shikharbhardwaj](https://github.com/shikharbhardwaj) in [#5161](https://github.com/jdx/mise/pull/5161)
+
+### 🐛 Bug Fixes
+
+- **(registry)** remove full from taplo by [@risu729](https://github.com/risu729) in [#5160](https://github.com/jdx/mise/pull/5160)
+- mise registry links for ubi with exe selector by [@mnm364](https://github.com/mnm364) in [#5156](https://github.com/jdx/mise/pull/5156)
+- mise settings add idiomatic_version_file_enable_tools stores duplicates in config by [@roele](https://github.com/roele) in [#5162](https://github.com/jdx/mise/pull/5162)
+
+### 🧪 Testing
+
+- disable mockolo since linux does not work anymore by [@jdx](https://github.com/jdx) in [5387d70](https://github.com/jdx/mise/commit/5387d7012d65b3da3dde12cd0a0eb07288b2d8f6)
+
+### New Contributors
+
+- @shikharbhardwaj made their first contribution in [#5161](https://github.com/jdx/mise/pull/5161)
+
 ## [2025.5.10](https://github.com/jdx/mise/compare/v2025.5.9..v2025.5.10) - 2025-05-22
 
 ### 🚀 Features
